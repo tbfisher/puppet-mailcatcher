@@ -3,6 +3,10 @@
 MailCatcher runs a super simple SMTP server which catches any message sent to
 it to display in a web interface. http://mailcatcher.me/
 
+## Requirements
+
+-   [puppetlabs-gcc](https://github.com/puppetlabs/puppetlabs-gcc.git)
+
 ## Usage
 
     include mailcatcher
